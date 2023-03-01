@@ -1,1 +1,2 @@
-print("Hello Git2 hemos cambiado v3 login")
+
+print("Hello Git2 hemos cambiado conflicto")
